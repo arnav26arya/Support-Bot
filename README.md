@@ -40,4 +40,4 @@ Thank you for your understanding.
 
 ## License
 
-[MIT](http://tflearn.org/license/)
+[TFlearn](http://tflearn.org/license/)
